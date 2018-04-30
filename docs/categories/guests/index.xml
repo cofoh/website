@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guests on The Colorado Festival of Horror</title>
+    <link>https://cofoh2.github.io/categories/guests/</link>
+    <description>Recent content in Guests on The Colorado Festival of Horror</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Apr 2018 13:24:01 +0530</lastBuildDate>
+    
+	<atom:link href="https://cofoh2.github.io/categories/guests/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Guests</title>
+      <link>https://cofoh2.github.io/post/guests/</link>
+      <pubDate>Mon, 30 Apr 2018 13:24:01 +0530</pubDate>
+      
+      <guid>https://cofoh2.github.io/post/guests/</guid>
+      <description>&lt;p&gt;Who to see at COFOH
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

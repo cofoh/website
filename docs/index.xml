@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Colorado Festival of Horror</title>
+    <link>https://cofoh2.github.io/</link>
+    <description>Recent content on The Colorado Festival of Horror</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Apr 2018 14:34:01 +0530</lastBuildDate>
+    
+	<atom:link href="https://cofoh2.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is COFOH?</title>
+      <link>https://cofoh2.github.io/post/about/</link>
+      <pubDate>Mon, 30 Apr 2018 14:34:01 +0530</pubDate>
+      
+      <guid>https://cofoh2.github.io/post/about/</guid>
+      <description>&lt;p&gt;Talk about what COFOH is.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>When is COFOH</title>
+      <link>https://cofoh2.github.io/post/schedule/</link>
+      <pubDate>Mon, 30 Apr 2018 14:24:01 +0530</pubDate>
+      
+      <guid>https://cofoh2.github.io/post/schedule/</guid>
+      <description>&lt;p&gt;Schedule stuff might go here.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Guests</title>
+      <link>https://cofoh2.github.io/post/guests/</link>
+      <pubDate>Mon, 30 Apr 2018 13:24:01 +0530</pubDate>
+      
+      <guid>https://cofoh2.github.io/post/guests/</guid>
+      <description>&lt;p&gt;Who to see at COFOH
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Where To Go</title>
+      <link>https://cofoh2.github.io/post/hotels/</link>
+      <pubDate>Mon, 30 Apr 2018 13:24:01 +0530</pubDate>
+      
+      <guid>https://cofoh2.github.io/post/hotels/</guid>
+      <description>&lt;p&gt;Host hotel stuff might go here
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About COFOH</title>
+      <link>https://cofoh2.github.io/about/</link>
+      <pubDate>Mon, 30 Apr 2018 13:16:33 +0530</pubDate>
+      
+      <guid>https://cofoh2.github.io/about/</guid>
+      <description>Cofoh is fun.
+Cofoh is good.
+I like turtles.</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>https://cofoh2.github.io/contact/</link>
+      <pubDate>Mon, 30 Apr 2018 13:14:25 +0530</pubDate>
+      
+      <guid>https://cofoh2.github.io/contact/</guid>
+      <description>Email Us at info@cofoh.com</description>
+    </item>
+    
+  </channel>
+</rss>

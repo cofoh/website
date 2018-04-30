@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://cofoh2.github.io/post/about/</loc>
+    <lastmod>2018-04-30T14:34:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cofoh2.github.io/post/schedule/</loc>
+    <lastmod>2018-04-30T14:24:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cofoh2.github.io/post/guests/</loc>
+    <lastmod>2018-04-30T13:24:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cofoh2.github.io/post/hotels/</loc>
+    <lastmod>2018-04-30T13:24:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cofoh2.github.io/about/</loc>
+    <lastmod>2018-04-30T13:16:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cofoh2.github.io/contact/</loc>
+    <lastmod>2018-04-30T13:14:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cofoh2.github.io/categories/about/</loc>
+    <lastmod>2018-04-30T14:34:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cofoh2.github.io/categories/</loc>
+    <lastmod>2018-04-30T14:34:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cofoh2.github.io/categories/guests/</loc>
+    <lastmod>2018-04-30T13:24:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cofoh2.github.io/categories/hotels/</loc>
+    <lastmod>2018-04-30T13:24:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cofoh2.github.io/post/</loc>
+    <lastmod>2018-04-30T14:34:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cofoh2.github.io/categories/schedule/</loc>
+    <lastmod>2018-04-30T14:24:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cofoh2.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cofoh2.github.io/</loc>
+    <lastmod>2018-04-30T14:34:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
