@@ -1,0 +1,55 @@
+baseURL = "https://cofoh.github.io/website"
+title = "The Colorado Festival of Horror"
+theme = "hugo-nederburg-theme"
+publishDir = "docs"
+languageCode = "en-us"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+preserveTaxonomyNames = true
+paginate = 5 #frontpage pagination
+
+[params]
+  slogan = "Coming Soon"
+  copyright = [
+    "Nederburg Hugo Theme by [Appernetic](https://appernetic.io).",
+    "A port of Tracks by Compete Themes."
+  ]
+
+
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below (it is also used in Gravatar for the bio).
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "info@cofoh.com"
+
+  # Nav links in the side bar
+  [[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "About"
+  url = "about/"
+  weight = 2
+
+  [[menu.main]]
+  name = "Get in touch"
+  url = "contact/"
+  weight = 3
+
+  [params.social]
+  facebook      = "full profile url in facebook"
+  email         = "info@cofoh.com"
+  twitter       = "full profile url in twitter"
+  instagram     = "full profile url in instagram"
